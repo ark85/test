@@ -5,6 +5,8 @@ template <class T>
 class D_List
 {
 private:
+
+
    class D_Node
    { public:
          D_Node *next;   // указатель на следующий узел
